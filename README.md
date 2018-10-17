@@ -3,7 +3,7 @@
 ## Getting started
 1. Clone down this repo
 2. Open a `SpecRunner.html` file in your browser
-3. Make the tests turn green
+3. Make the tests turn green by editing code in `src/*.js` files
 
 ### BONUS:
 1. Create these data structures without using `class` syntax. Look into JavaScript inheritance and design patterns.
