@@ -7,7 +7,7 @@ describe('stack', function () {
 
   it('should have methods "push" and "pop"', function() {
     expect(stack.push).to.be.a('function');
-    expect(stack.pop).to.be.a('funnction');
+    expect(stack.pop).to.be.a('function');
   });
 
   it('removes the most recently added of two items', function () {
